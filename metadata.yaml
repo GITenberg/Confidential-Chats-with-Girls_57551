@@ -1,5 +1,8 @@
 _repo: Confidential-Chats-with-Girls_57551
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57551-h/images/cover.jpg
 creator:
   author:
     agent_name: Howard, William Lee
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49442
     wikipedia: https://en.wikipedia.org/wiki/William_Lee_Howard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57551#Confidential-Chats-with-Girls
 gutenberg_issued: '2018-07-20'
 gutenberg_type: Text
 identifiers:
